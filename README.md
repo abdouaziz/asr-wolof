@@ -33,7 +33,7 @@ install the dependencies for this project by running the following commands in y
 run the deepspeech2 model by running the following command in your terminal:
 
 ```
-python deep-specch2/src/train.py --train_file="./input/Train.csv" \
+python deep-speech2/src/train.py --train_file="./input/Train.csv" \
                         --dev_file="./input/Test.csv" \
                         --audio_dir="./input/clips" \
                         --n_filters=256 \

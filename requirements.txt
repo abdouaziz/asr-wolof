@@ -1,7 +1,7 @@
 pandas
 numpy
 tqdm==4.31.1
-sklearn
+scikit-learn
 tensorflow
 keras
 matplotlib

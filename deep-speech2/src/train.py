@@ -45,7 +45,7 @@ def parse_args():
     )
 
     parser.add_argument(
-        "n_dense_units", type=int, default=42, help="Number of units in the dense layers."
+        "--n_dense_units", type=int, default=42, help="Number of units in the dense layers."
     )
 
     parser.add_argument(
